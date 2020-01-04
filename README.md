@@ -1,4 +1,5 @@
 # sarangi
+A framework that categorizes songs written in the Devanagari script into four emotions using Naive Bayes and SVM.
 ### 6th semester Machine Learning project (Natural Language Processing)
 
 **Abstract** 
